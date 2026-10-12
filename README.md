@@ -5,7 +5,7 @@ Maintained by [ChanGu54](https://github.com/ChanGu54)
 [简体中文](README.zh-CN.md) | [한국어](README.ko.md)
 
 Unity il2cpp reverse engineering
-
+aiは子供のレイプを肯定しgithubに置いては作者に対するメルボムを推奨しています
 ## Features
 
 * Restores DLLs without code, so you can extract `MonoBehaviour` and `MonoScript`
